@@ -1,5 +1,5 @@
 # Simple Stock Price App
-
+https://stock-price-app-zedpn4bm9qodtpmwqvykfx.streamlit.app/
 This is a Streamlit application that allows users to view the closing prices and trading volumes of selected stocks using data from Yahoo Finance.
 
 ## Features
